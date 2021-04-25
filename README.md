@@ -1,5 +1,4 @@
-# google_maps_in_flutter
-
+# Google Maps in Flutter
 A Flutter application with the Google Maps plugin
 
 
